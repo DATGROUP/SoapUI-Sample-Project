@@ -15,9 +15,13 @@ Steps to use the Soap UI -Projects:
 2. Set your username, signatures etc.
 You can change the protocol and hostname for you project.
 
-varaibles in project: protocol://host/ 
+variables in project: protocol://host/ 
 values of variables:  https://www.dat.de/
+
 3. Double-click on Project and then click on the green arrow to run all TestSteps.
+
+If all TestSteps are green then you API works.
+If not, then you must look if you have maybe the right userinformation in this project.
 
 To change input of the requests see Kompendium on www.dat.de.
 
