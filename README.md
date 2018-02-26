@@ -1,5 +1,5 @@
 # SoapUI-Sample-Project
-=======
+
 We test with Soap UI the API of our application.
 If you have trouble with request and response of the API, you should use this projects to understand which method needs which input.
 
