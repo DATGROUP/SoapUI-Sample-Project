@@ -22,6 +22,6 @@ values of variables:  https://www.dat.de/
 3. Double-click on Project and then click on the green arrow to run all TestSteps.
 
 If all TestSteps are green then you API works.
-If not, then you must look if you have written the wrong userinformation in this project.
+If not, then you must look if you have written the wrong logindata.
 
 For more information about the API look at the Kompendium on www.dat.de.
